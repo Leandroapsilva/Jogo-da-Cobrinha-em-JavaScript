@@ -1,0 +1,27 @@
+# Famoso jogo da Cobrinha em JavaScript
+
+Desenvolvido em JavaScript durante o BootCamp da Digital Innovation One:
+Projeto Finalizado com Sucesso.
+
+Acabei alterando design da cobra pra ela nao ficar juntinha e adicionei um FOOTER na pagina.
+
+#projetosDIO
+
+QUEM QUISER OLHAR O CÓDIGO É SÓ NO MEU GITHUB
+
+https://github.com/
+
+## Descrição do Jogo
+
+- Uma cobrinha irá andar pela tela em busca das frutinhas.
+- Ao passar por uma das bordas ela é tele-transportada para a outra borda.
+- Ao comer uma frutinha ela aumenta de tamanho.
+- O jogo termina se ela se chocar contra si.
+
+
+## Backlog de Melhorias
+
+- Tela com opções de novo jogo e record
+- Melhorar o design do título
+- Melhoraria no footer
+- Animação das cores da cobrinha no final do jogo
